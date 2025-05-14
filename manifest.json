@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "com.palgam.rng": "file:../com.palgam.rng"
-
-  }
-}
