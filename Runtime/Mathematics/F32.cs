@@ -1,6 +1,7 @@
 ﻿//
 // FixPointCS
 //
+//
 // Copyright(c) Jere Sanisalo, Petri Kero
 // 
 // Permission is hereby granted, free of charge, to any person obtaining a copy
